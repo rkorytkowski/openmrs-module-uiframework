@@ -44,7 +44,7 @@ public class UiFrameworkActivator extends BaseModuleActivator implements ModuleA
 	 */
 	@Override
 	public void willStart() {
-		log.info("Starting UI Framework module");
+		log.info("Starting UI Framework module")
 	}
 	
 	/**
